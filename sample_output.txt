@@ -1,0 +1,5 @@
+Hello, first_test_user! Directory /home/first_test_user is ready.
+Hello, second_test_user! Directory /home/second_test_user is ready
+#Вызов скрипта без параметра.
+Ошибка: укажите имя пользователя.
+Использование: ./script.sh <username>
