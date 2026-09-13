@@ -1,5 +1,5 @@
-Hello, first_test_user! Directory /home/first_test_user is ready.
-Hello, second_test_user! Directory /home/second_test_user is ready
-#Вызов скрипта без параметра.
+Hello, testuser1! Directory /home/ubuntu/managed_users/testuser1 is ready.
+Hello, testuser2! Directory /home/ubuntu/managed_users/testuser2 is ready.
+Hello, testuser3! Directory /home/ubuntu/managed_users/testuser3 is ready.
 Ошибка: укажите имя пользователя.
 Использование: ./script.sh <username>
