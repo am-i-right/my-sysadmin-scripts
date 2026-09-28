@@ -1,10 +1,8 @@
 #!/bin/bash
-
 set -euo pipefail
 
-readonly BASE_DIR="${HOME}/managed_users"
+readonly BASE_DIR="${2:-/var/www/managed_users}"
 readonly LOG_FILE="${BASE_DIR}/user_setup.log"
-
 USERNAME="${1:-}"
 
 if [[ -z "$USERNAME" ]]; then
